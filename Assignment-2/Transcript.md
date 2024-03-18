@@ -33,7 +33,13 @@ Certainly! Here's a step-by-step process for playing Yahtzee:
 That's the basic step-by-step process of playing Yahtzee! It's a simple yet engaging game that can provide hours of entertainment.
 
 
-Playing the game with ChatGPT at [Link]()
+Playing the game with ChatGPT at [Link](https://github.com/U-Harshitha/WE-Module3/blob/main/Assignment-2/PlayingGame.md) Since it went a little too long
+### Comments
+- Kept Forgetting about about Large Straight
+- Felt like it did a good job in the other cases 
+- Dice Rolls weren't really that random
+- Repeated Mistakes in calculating totals
+
 
 ### Me
 Give approach to write code for this game without code
